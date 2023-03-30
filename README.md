@@ -2,7 +2,7 @@
 
 Projects from online courses.
 
-## [bg-generator](./projects/bg-generator/README.md)
+## [bg-generator](./projects/bg-generator/)
 
 Simple CSS background generator with color gradient.  
 This was from the [`Complete Web Developer Zero to Mastery`](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course hosted by Udemy.
@@ -19,7 +19,7 @@ Open the `index.html` file to view in the browser.
 
 ---
 
-## robofriends
+## [robofriends](./projects/robofriends/)
 
 A website written in React displaying robots and their contact information. Enter a search and the robots will be filtered in real time.  
 This was from the [`Complete Web Developer Zero to Mastery`](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course hosted by Udemy.
@@ -45,7 +45,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ---
 
-## mortgage-calculator
+## [mortgage-calculator](./projects/mortgage-calculator/)
 
 A website written in React to calculate a monthly mortgage payment based on a home value, down payment, interest rate, and loan term.  
 This course was hosted by [freeCodeCamp](https://www.freecodecamp.org/news/react-mortgage-calculator-tutorial-for-beginners/).  
