@@ -7,11 +7,16 @@
 /projects/robofriends/node_modules
 /projects/robofriends/build
 /projects/robofriends/.pnp
+/projects/react_to_nextjs/node_modules
+/projects/react_to_nextjs/build
+/projects/react_to_nextjs/.pnp
+/projects/react_to_nextjs/.next
 .pnp.js
 
 # testing
 /projects/mortgage-calculator/coverage
 /projects/robofriends/coverage
+/projects/react_to_nextjs/coverage
 
 # production
 
