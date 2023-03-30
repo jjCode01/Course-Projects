@@ -1,13 +1,17 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# dependencies
+# project folders
 /projects/mortgage-calculator/node_modules
 /projects/mortgage-calculator/build
 /projects/mortgage-calculator/.pnp
+/projects/robofriends/node_modules
+/projects/robofriends/build
+/projects/robofriends/.pnp
 .pnp.js
 
 # testing
 /projects/mortgage-calculator/coverage
+/projects/robofriends/coverage
 
 # production
 
