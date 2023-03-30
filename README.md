@@ -4,7 +4,13 @@ Projects from online courses.
 
 ## bg-generator
 
-A simple background generator written in javascript
+Simple CSS background generator with color gradient.
+
+<img
+  src="./static/images/bg-generator-02.jpg"
+  alt="background generator screenshot"
+  title="background generator screenshot"
+  style="display: inline-block; margin: 1rem auto; max-width: 600px">
 
 ---
 

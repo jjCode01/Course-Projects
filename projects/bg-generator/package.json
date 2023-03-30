@@ -1,0 +1,22 @@
+{
+  "name": "bg-generator",
+  "version": "0.0.1",
+  "description": "Simple background generator with color gradient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjCode01/bg-generator.git"
+  },
+  "keywords": [
+    "background"
+  ],
+  "author": "jjCode01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjCode01/bg-generator/issues"
+  },
+  "homepage": "https://github.com/jjCode01/bg-generator#readme"
+}
