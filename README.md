@@ -2,7 +2,7 @@
 
 Projects from online courses.
 
-## bg-generator
+## [bg-generator](./projects/bg-generator/README.md)
 
 Simple CSS background generator with color gradient.  
 This was from the [`Complete Web Developer Zero to Mastery`](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course hosted by Udemy.
@@ -15,7 +15,7 @@ This was from the [`Complete Web Developer Zero to Mastery`](https://www.udemy.c
 
 ### Run
 
-Open the [index.html](./projects/bg-generator/index.html) file to view in the browser.
+Open the `index.html` file to view in the browser.
 
 ---
 
